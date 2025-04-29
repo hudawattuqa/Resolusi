@@ -1,2 +1,2 @@
 # Resolusi
-Simpan rencana si idiot ini
+Buat nyimpan rencana si idiot ini
